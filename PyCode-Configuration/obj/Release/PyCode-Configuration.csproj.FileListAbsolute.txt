@@ -1,0 +1,5 @@
+D:\Users\25384\Desktop\PyCode\PyCode-Configuration\bin\Release\PyCode-Configuration.dll
+D:\Users\25384\Desktop\PyCode\PyCode-Configuration\bin\Release\PyCode-Configuration.pdb
+D:\Users\25384\Desktop\PyCode\PyCode-Configuration\obj\Release\PyCode-Configuration.csprojAssemblyReference.cache
+D:\Users\25384\Desktop\PyCode\PyCode-Configuration\obj\Release\PyCode-Configuration.dll
+D:\Users\25384\Desktop\PyCode\PyCode-Configuration\obj\Release\PyCode-Configuration.pdb
